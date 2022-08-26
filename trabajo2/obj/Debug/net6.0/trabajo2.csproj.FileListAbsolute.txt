@@ -1,0 +1,5 @@
+E:\Users\User\Documents\naren\visual estudiuo talleres\trabajo2\trabajo2\obj\Debug\net6.0\trabajo2.csproj.AssemblyReference.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\trabajo2\trabajo2\obj\Debug\net6.0\trabajo2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\User\Documents\naren\visual estudiuo talleres\trabajo2\trabajo2\obj\Debug\net6.0\trabajo2.AssemblyInfoInputs.cache
+E:\Users\User\Documents\naren\visual estudiuo talleres\trabajo2\trabajo2\obj\Debug\net6.0\trabajo2.AssemblyInfo.cs
+E:\Users\User\Documents\naren\visual estudiuo talleres\trabajo2\trabajo2\obj\Debug\net6.0\trabajo2.csproj.CoreCompileInputs.cache
